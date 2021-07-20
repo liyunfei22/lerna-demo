@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lerna-test-core": "^0.0.1"
-  }
+  },
+  "gitHead": "5a5536b2de7b8311cb162fe6f5a669d9fbc33545"
 }

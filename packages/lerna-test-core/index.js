@@ -1,4 +1,4 @@
-const API = "www.baidu.com"
+const API = "https://www.baidu.com"
 module.exports = {
   API
 }
