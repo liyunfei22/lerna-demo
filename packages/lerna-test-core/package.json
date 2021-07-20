@@ -1,5 +1,5 @@
 {
-  "name": "lerna-test-core",
+  "name": "@liyunfei/lerna-test-core",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,8 @@
   "dependencies": {
     "axios": "^0.21.1"
   },
-  "gitHead": "1dd9c99abf8a4cd70d15af71a20a83a305e74d8d"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "52518372bd8825cfc69a319626518f4149d87603"
 }
