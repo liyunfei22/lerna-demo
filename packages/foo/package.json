@@ -1,6 +1,6 @@
 {
   "name": "@redarsenal/foo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "李云飞 <liyunfei02@daojia-inc.com>",
   "homepage": "https://github.com/liyunfei22/lerna-demo#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/liyunfei22/lerna-demo/issues"
   },
   "dependencies": {
-    "@redarsenal/baz": "^1.0.1"
+    "@redarsenal/baz": "^1.0.2"
   },
   "gitHead": "8e0ed2d51a3d4f959917c6639d63d0b077bf10af"
 }

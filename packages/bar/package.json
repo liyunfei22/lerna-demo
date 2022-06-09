@@ -1,10 +1,10 @@
 {
   "name": "@redarsenal/bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@redarsenal/baz": "^1.0.1"
+    "@redarsenal/baz": "^1.0.2"
   },
   "gitHead": "8e0ed2d51a3d4f959917c6639d63d0b077bf10af"
 }
