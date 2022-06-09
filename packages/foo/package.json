@@ -1,0 +1,29 @@
+{
+  "name": "@redarsenal/foo",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "李云飞 <liyunfei02@daojia-inc.com>",
+  "homepage": "https://github.com/liyunfei22/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/foo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyunfei22/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/liyunfei22/lerna-demo/issues"
+  },
+  "dependencies": {
+    "@redarsenal/baz": "^1.0.0"
+  }
+}
