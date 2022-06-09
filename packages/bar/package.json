@@ -6,5 +6,8 @@
   "dependencies": {
     "@redarsenal/baz": "^1.0.3"
   },
-  "gitHead": "df5c7df00e63b9e3c90c3c22fd872ee042d09546"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "c42c331dd179364048a81221644ebcafd08e8ea5"
 }
